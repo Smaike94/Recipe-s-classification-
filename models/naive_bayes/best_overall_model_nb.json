@@ -1,0 +1,34 @@
+{
+    "10000-False-True-all": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 79.10820081072654,
+            "test_acc": 72.90886392009988,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            },
+            "precision": {
+                "american": 0.6332046332046332,
+                "asian": 0.8787878787878788,
+                "french": 0.6654135338345865,
+                "indian": 0.6907216494845361,
+                "italian": 0.7335423197492164,
+                "jewish": 0.618421052631579,
+                "mexican": 0.7960199004975125,
+                "middle_eastern": 0.6666666666666666
+            },
+            "recall": {
+                "american": 0.5466666666666666,
+                "asian": 0.90625,
+                "french": 0.6555555555555556,
+                "indian": 0.7613636363636364,
+                "italian": 0.78,
+                "jewish": 0.573170731707317,
+                "mexican": 0.837696335078534,
+                "middle_eastern": 0.6987951807228916
+            }
+        }
+    }
+}

@@ -1,0 +1,770 @@
+{
+    "1000-True-False-all": {
+        "svm": {
+            "model": "SVC(coef0=1, degree=5, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 100.0,
+            "test_acc": 72.34706616729089,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 5,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "1000-True-False-ingredients": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.81290926099157,
+            "test_acc": 73.28339575530588,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "1000-False-False-all": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 100.0,
+            "test_acc": 73.09612983770288,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "1000-False-False-ingredients": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.93763642033052,
+            "test_acc": 72.59675405742821,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "1000-True-True-all": {
+        "svm": {
+            "model": "SVC(coef0=1, degree=5, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 100.0,
+            "test_acc": 73.3458177278402,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 5,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "1000-True-True-ingredients": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.29840972871843,
+            "test_acc": 73.59550561797754,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "1000-False-True-all": {
+        "svm": {
+            "model": "SVC(coef0=1, degree=5, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 100.0,
+            "test_acc": 74.46941323345818,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 5,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "1000-False-True-ingredients": {
+        "svm": {
+            "model": "SVC(coef0=1, degree=5, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.96881821016527,
+            "test_acc": 73.90761548064918,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 5,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "3000-True-False-all": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.92204552541317,
+            "test_acc": 74.71910112359551,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "3000-True-False-ingredients": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.87527284066105,
+            "test_acc": 73.1585518102372,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "3000-False-False-all": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 100.0,
+            "test_acc": 75.90511860174782,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "3000-False-False-ingredients": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.93763642033052,
+            "test_acc": 73.7203495630462,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "3000-True-True-all": {
+        "svm": {
+            "model": "SVC(coef0=1, degree=5, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 100.0,
+            "test_acc": 74.90636704119851,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 5,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "3000-True-True-ingredients": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.50109136264422,
+            "test_acc": 74.53183520599251,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "3000-False-True-all": {
+        "svm": {
+            "model": "SVC(coef0=1, degree=5, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 100.0,
+            "test_acc": 75.84269662921348,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 5,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "3000-False-True-ingredients": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.92204552541317,
+            "test_acc": 74.28214731585518,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "5000-True-False-all": {
+        "svm": {
+            "model": "SVC(coef0=1, degree=5, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 100.0,
+            "test_acc": 75.03121098626715,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 5,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "5000-True-False-ingredients": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.85968194574369,
+            "test_acc": 73.40823970037454,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "5000-False-False-all": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 100.0,
+            "test_acc": 75.90511860174782,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "5000-False-False-ingredients": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.92204552541317,
+            "test_acc": 73.59550561797754,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "5000-True-True-all": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.78172747115684,
+            "test_acc": 75.21847690387015,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "5000-True-True-ingredients": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.4543186778921,
+            "test_acc": 74.34456928838952,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "5000-False-True-all": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.98440910508263,
+            "test_acc": 76.2796504369538,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "5000-False-True-ingredients": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.92204552541317,
+            "test_acc": 74.28214731585518,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "10000-True-False-all": {
+        "svm": {
+            "model": "SVC(coef0=1, degree=5, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 100.0,
+            "test_acc": 74.65667915106118,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 5,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "10000-True-False-ingredients": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.85968194574369,
+            "test_acc": 73.40823970037454,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "10000-False-False-all": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 100.0,
+            "test_acc": 75.53058676654182,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "10000-False-False-ingredients": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.92204552541317,
+            "test_acc": 73.59550561797754,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "10000-True-True-all": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.79731836607422,
+            "test_acc": 75.09363295880149,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "10000-True-True-ingredients": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.4543186778921,
+            "test_acc": 74.34456928838952,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "10000-False-True-all": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.98440910508263,
+            "test_acc": 76.2796504369538,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    },
+    "10000-False-True-ingredients": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.92204552541317,
+            "test_acc": 74.28214731585518,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            }
+        }
+    }
+}

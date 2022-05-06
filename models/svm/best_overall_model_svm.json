@@ -1,0 +1,46 @@
+{
+    "3000-False-True-all": {
+        "svm": {
+            "model": "SVC(C=0.01, coef0=1, gamma=1, kernel='linear', max_iter=1000)",
+            "train_acc": 88.32241970689118,
+            "test_acc": 73.22097378277154,
+            "params": {
+                "C": 0.01,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "linear",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            },
+            "precision": {
+                "asian": 0.5672514619883041,
+                "italian": 0.8900709219858156,
+                "american": 0.6529850746268657,
+                "mexican": 0.7619047619047619,
+                "middle_eastern": 0.725609756097561,
+                "french": 0.7538461538461538,
+                "jewish": 0.8855421686746988,
+                "indian": 0.8208955223880597
+            },
+            "recall": {
+                "asian": 0.6466666666666666,
+                "italian": 0.8715277777777778,
+                "american": 0.6481481481481481,
+                "mexican": 0.7272727272727273,
+                "middle_eastern": 0.7933333333333333,
+                "french": 0.5975609756097561,
+                "jewish": 0.7696335078534031,
+                "indian": 0.6626506024096386
+            }
+        }
+    }
+}

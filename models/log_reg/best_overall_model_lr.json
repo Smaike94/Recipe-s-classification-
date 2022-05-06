@@ -1,0 +1,46 @@
+{
+    "5000-True-True-all": {
+        "lr": {
+            "model": "LogisticRegression(C=0.01, max_iter=1000, multi_class='multinomial')",
+            "train_acc": 85.54724041159962,
+            "test_acc": 73.90761548064918,
+            "params": {
+                "C": 0.01,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            },
+            "precision": {
+                "american": 0.595166163141994,
+                "asian": 0.8850174216027874,
+                "french": 0.6535714285714286,
+                "indian": 0.7567567567567568,
+                "italian": 0.7300613496932515,
+                "jewish": 0.7678571428571429,
+                "mexican": 0.8920454545454546,
+                "middle_eastern": 0.7777777777777778
+            },
+            "recall": {
+                "american": 0.6566666666666666,
+                "asian": 0.8819444444444444,
+                "french": 0.6777777777777778,
+                "indian": 0.6363636363636364,
+                "italian": 0.7933333333333333,
+                "jewish": 0.524390243902439,
+                "mexican": 0.8219895287958116,
+                "middle_eastern": 0.6746987951807228
+            }
+        }
+    }
+}

@@ -1,0 +1,770 @@
+{
+    "1000-True-False-all": {
+        "lr": {
+            "model": "LogisticRegression(C=0.01, max_iter=1000, multi_class='multinomial')",
+            "train_acc": 81.55597131275336,
+            "test_acc": 70.16229712858927,
+            "params": {
+                "C": 0.01,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "1000-True-False-ingredients": {
+        "lr": {
+            "model": "LogisticRegression(max_iter=1000, multi_class='multinomial')",
+            "train_acc": 90.02182725288431,
+            "test_acc": 70.78651685393258,
+            "params": {
+                "C": 1.0,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "1000-False-False-all": {
+        "lr": {
+            "model": "LogisticRegression(C=0.01, max_iter=1000, multi_class='multinomial')",
+            "train_acc": 81.60274399750546,
+            "test_acc": 70.53682896379524,
+            "params": {
+                "C": 0.01,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "1000-False-False-ingredients": {
+        "lr": {
+            "model": "LogisticRegression(max_iter=1000, multi_class='multinomial')",
+            "train_acc": 89.30464608668538,
+            "test_acc": 70.47440699126092,
+            "params": {
+                "C": 1.0,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "1000-True-True-all": {
+        "lr": {
+            "model": "LogisticRegression(C=0.01, max_iter=1000, multi_class='multinomial')",
+            "train_acc": 82.05487995010914,
+            "test_acc": 72.22222222222221,
+            "params": {
+                "C": 0.01,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "1000-True-True-ingredients": {
+        "lr": {
+            "model": "LogisticRegression(max_iter=1000, multi_class='multinomial')",
+            "train_acc": 89.86591830371063,
+            "test_acc": 72.09737827715355,
+            "params": {
+                "C": 1.0,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "1000-False-True-all": {
+        "lr": {
+            "model": "LogisticRegression(C=0.01, max_iter=1000, multi_class='multinomial')",
+            "train_acc": 82.14842531961335,
+            "test_acc": 71.0362047440699,
+            "params": {
+                "C": 0.01,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "1000-False-True-ingredients": {
+        "lr": {
+            "model": "LogisticRegression(max_iter=1000, multi_class='multinomial')",
+            "train_acc": 89.71000935453695,
+            "test_acc": 72.03495630461923,
+            "params": {
+                "C": 1.0,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "3000-True-False-all": {
+        "lr": {
+            "model": "LogisticRegression(C=0.01, max_iter=1000, multi_class='multinomial')",
+            "train_acc": 85.96819457436857,
+            "test_acc": 73.3458177278402,
+            "params": {
+                "C": 0.01,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "3000-True-False-ingredients": {
+        "lr": {
+            "model": "LogisticRegression(max_iter=1000, multi_class='multinomial')",
+            "train_acc": 94.58995946367321,
+            "test_acc": 71.2234706616729,
+            "params": {
+                "C": 1.0,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "3000-False-False-all": {
+        "lr": {
+            "model": "LogisticRegression(C=0.01, max_iter=1000, multi_class='multinomial')",
+            "train_acc": 85.1730589335828,
+            "test_acc": 73.40823970037454,
+            "params": {
+                "C": 0.01,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "3000-False-False-ingredients": {
+        "lr": {
+            "model": "LogisticRegression(max_iter=1000, multi_class='multinomial')",
+            "train_acc": 93.98191456189585,
+            "test_acc": 71.16104868913857,
+            "params": {
+                "C": 1.0,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "3000-True-True-all": {
+        "lr": {
+            "model": "LogisticRegression(C=0.01, max_iter=1000, multi_class='multinomial')",
+            "train_acc": 85.37574056750857,
+            "test_acc": 73.84519350811486,
+            "params": {
+                "C": 0.01,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "3000-True-True-ingredients": {
+        "lr": {
+            "model": "LogisticRegression(max_iter=1000, multi_class='multinomial')",
+            "train_acc": 93.67009666354849,
+            "test_acc": 72.47191011235955,
+            "params": {
+                "C": 1.0,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "3000-False-True-all": {
+        "lr": {
+            "model": "LogisticRegression(C=0.01, max_iter=1000, multi_class='multinomial')",
+            "train_acc": 84.81446835048332,
+            "test_acc": 73.1585518102372,
+            "params": {
+                "C": 0.01,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "3000-False-True-ingredients": {
+        "lr": {
+            "model": "LogisticRegression(max_iter=1000, multi_class='multinomial')",
+            "train_acc": 92.81259744309324,
+            "test_acc": 72.90886392009988,
+            "params": {
+                "C": 1.0,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "5000-True-False-all": {
+        "lr": {
+            "model": "LogisticRegression(C=0.01, max_iter=1000, multi_class='multinomial')",
+            "train_acc": 86.2956033676333,
+            "test_acc": 73.5330836454432,
+            "params": {
+                "C": 0.01,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "5000-True-False-ingredients": {
+        "lr": {
+            "model": "LogisticRegression(max_iter=1000, multi_class='multinomial')",
+            "train_acc": 95.0420954162769,
+            "test_acc": 71.28589263420724,
+            "params": {
+                "C": 1.0,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "5000-False-False-all": {
+        "lr": {
+            "model": "LogisticRegression(C=0.01, max_iter=1000, multi_class='multinomial')",
+            "train_acc": 85.62519488618646,
+            "test_acc": 73.5330836454432,
+            "params": {
+                "C": 0.01,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "5000-False-False-ingredients": {
+        "lr": {
+            "model": "LogisticRegression(max_iter=1000, multi_class='multinomial')",
+            "train_acc": 94.3560960399127,
+            "test_acc": 71.5980024968789,
+            "params": {
+                "C": 1.0,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "5000-True-True-all": {
+        "lr": {
+            "model": "LogisticRegression(C=0.01, max_iter=1000, multi_class='multinomial')",
+            "train_acc": 85.54724041159962,
+            "test_acc": 73.90761548064918,
+            "params": {
+                "C": 0.01,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "5000-True-True-ingredients": {
+        "lr": {
+            "model": "LogisticRegression(max_iter=1000, multi_class='multinomial')",
+            "train_acc": 93.91955098222638,
+            "test_acc": 72.84644194756554,
+            "params": {
+                "C": 1.0,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "5000-False-True-all": {
+        "lr": {
+            "model": "LogisticRegression(C=0.01, max_iter=1000, multi_class='multinomial')",
+            "train_acc": 84.95478640473964,
+            "test_acc": 73.09612983770288,
+            "params": {
+                "C": 0.01,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "5000-False-True-ingredients": {
+        "lr": {
+            "model": "LogisticRegression(max_iter=1000, multi_class='multinomial')",
+            "train_acc": 93.0776426566885,
+            "test_acc": 73.28339575530588,
+            "params": {
+                "C": 1.0,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "10000-True-False-all": {
+        "lr": {
+            "model": "LogisticRegression(C=0.01, max_iter=1000, multi_class='multinomial')",
+            "train_acc": 86.38914873713752,
+            "test_acc": 73.40823970037454,
+            "params": {
+                "C": 0.01,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "10000-True-False-ingredients": {
+        "lr": {
+            "model": "LogisticRegression(max_iter=1000, multi_class='multinomial')",
+            "train_acc": 95.0420954162769,
+            "test_acc": 71.28589263420724,
+            "params": {
+                "C": 1.0,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "10000-False-False-all": {
+        "lr": {
+            "model": "LogisticRegression(C=0.01, max_iter=1000, multi_class='multinomial')",
+            "train_acc": 85.71874025569068,
+            "test_acc": 73.65792759051186,
+            "params": {
+                "C": 0.01,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "10000-False-False-ingredients": {
+        "lr": {
+            "model": "LogisticRegression(max_iter=1000, multi_class='multinomial')",
+            "train_acc": 94.3560960399127,
+            "test_acc": 71.5980024968789,
+            "params": {
+                "C": 1.0,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "10000-True-True-all": {
+        "lr": {
+            "model": "LogisticRegression(C=0.01, max_iter=1000, multi_class='multinomial')",
+            "train_acc": 85.57842220143436,
+            "test_acc": 73.90761548064918,
+            "params": {
+                "C": 0.01,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "10000-True-True-ingredients": {
+        "lr": {
+            "model": "LogisticRegression(max_iter=1000, multi_class='multinomial')",
+            "train_acc": 93.91955098222638,
+            "test_acc": 72.84644194756554,
+            "params": {
+                "C": 1.0,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "10000-False-True-all": {
+        "lr": {
+            "model": "LogisticRegression(C=0.01, max_iter=1000, multi_class='multinomial')",
+            "train_acc": 84.98596819457437,
+            "test_acc": 73.09612983770288,
+            "params": {
+                "C": 0.01,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    },
+    "10000-False-True-ingredients": {
+        "lr": {
+            "model": "LogisticRegression(max_iter=1000, multi_class='multinomial')",
+            "train_acc": 93.0776426566885,
+            "test_acc": 73.28339575530588,
+            "params": {
+                "C": 1.0,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 1000,
+                "multi_class": "multinomial",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "lbfgs",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
+        }
+    }
+}

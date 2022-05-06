@@ -1,0 +1,46 @@
+{
+    "5000-False-True-all": {
+        "svm": {
+            "model": "SVC(coef0=1, gamma=1, kernel='poly', max_iter=1000)",
+            "train_acc": 99.98440910508263,
+            "test_acc": 76.2796504369538,
+            "params": {
+                "C": 1.0,
+                "break_ties": false,
+                "cache_size": 200,
+                "class_weight": null,
+                "coef0": 1,
+                "decision_function_shape": "ovr",
+                "degree": 3,
+                "gamma": 1,
+                "kernel": "poly",
+                "max_iter": 1000,
+                "probability": false,
+                "random_state": null,
+                "shrinking": true,
+                "tol": 0.001,
+                "verbose": false
+            },
+            "precision": {
+                "asian": 0.6158536585365854,
+                "italian": 0.900355871886121,
+                "american": 0.6872727272727273,
+                "mexican": 0.7701149425287356,
+                "middle_eastern": 0.759493670886076,
+                "french": 0.8142857142857143,
+                "jewish": 0.9011627906976745,
+                "indian": 0.8082191780821918
+            },
+            "recall": {
+                "asian": 0.6733333333333333,
+                "italian": 0.8784722222222222,
+                "american": 0.7,
+                "mexican": 0.7613636363636364,
+                "middle_eastern": 0.8,
+                "french": 0.6951219512195121,
+                "jewish": 0.8115183246073299,
+                "indian": 0.7108433734939759
+            }
+        }
+    }
+}

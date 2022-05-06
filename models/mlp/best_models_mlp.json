@@ -1,0 +1,1090 @@
+{
+    "1000-True-False-all": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=1, hidden_layer_sizes=(20,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 80.6984720922981,
+            "test_acc": 70.72409488139824,
+            "params": {
+                "activation": "relu",
+                "alpha": 1,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    20
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "1000-True-False-ingredients": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(20,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 72.85625194886187,
+            "test_acc": 69.22596754057429,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    20
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "1000-False-False-all": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(50,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 84.76769566573121,
+            "test_acc": 71.16104868913857,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    50
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "1000-False-False-ingredients": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=1, hidden_layer_sizes=(20,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 70.14343623323978,
+            "test_acc": 68.2896379525593,
+            "params": {
+                "activation": "relu",
+                "alpha": 1,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    20
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "1000-True-True-all": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=1, hidden_layer_sizes=(10,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 79.95010913626443,
+            "test_acc": 72.28464419475655,
+            "params": {
+                "activation": "relu",
+                "alpha": 1,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    10
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "1000-True-True-ingredients": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(50,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 73.51106953539133,
+            "test_acc": 71.0362047440699,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    50
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "1000-False-True-all": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=1, hidden_layer_sizes=(50,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 83.53601496725912,
+            "test_acc": 72.03495630461923,
+            "params": {
+                "activation": "relu",
+                "alpha": 1,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    50
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "1000-False-True-ingredients": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=1, hidden_layer_sizes=(20,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 71.34393514187714,
+            "test_acc": 69.97503121098627,
+            "params": {
+                "activation": "relu",
+                "alpha": 1,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    20
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "3000-True-False-all": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=1, hidden_layer_sizes=(50,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 88.04178359837854,
+            "test_acc": 74.65667915106118,
+            "params": {
+                "activation": "relu",
+                "alpha": 1,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    50
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "3000-True-False-ingredients": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(50,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 75.50670408481447,
+            "test_acc": 71.09862671660424,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    50
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "3000-False-False-all": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(10,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 85.76551294044278,
+            "test_acc": 74.65667915106118,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    10
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "3000-False-False-ingredients": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(50,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 74.555659494855,
+            "test_acc": 69.91260923845194,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    50
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "3000-True-True-all": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=1, hidden_layer_sizes=(50,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 87.77673838478329,
+            "test_acc": 74.96878901373285,
+            "params": {
+                "activation": "relu",
+                "alpha": 1,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    50
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "3000-True-True-ingredients": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(50,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 75.39756782039288,
+            "test_acc": 71.28589263420724,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    50
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "3000-False-True-all": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=1, hidden_layer_sizes=(20,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 85.12628624883068,
+            "test_acc": 74.15730337078652,
+            "params": {
+                "activation": "relu",
+                "alpha": 1,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    20
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "3000-False-True-ingredients": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(50,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 74.61802307452447,
+            "test_acc": 70.47440699126092,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    50
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "5000-True-False-all": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(20,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 88.93046460866853,
+            "test_acc": 74.59425717852685,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    20
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "5000-True-False-ingredients": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(50,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 75.02338634237606,
+            "test_acc": 70.97378277153558,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    50
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "5000-False-False-all": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=1, hidden_layer_sizes=(50,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 88.10414717804802,
+            "test_acc": 74.15730337078652,
+            "params": {
+                "activation": "relu",
+                "alpha": 1,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    50
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "5000-False-False-ingredients": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(50,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 75.27284066105395,
+            "test_acc": 70.72409488139824,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    50
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "5000-True-True-all": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(20,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 87.8702837542875,
+            "test_acc": 74.96878901373285,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    20
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "5000-True-True-ingredients": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(50,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 74.75834112878078,
+            "test_acc": 71.0362047440699,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    50
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "5000-False-True-all": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=1, hidden_layer_sizes=(50,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 87.15310258808856,
+            "test_acc": 73.97003745318352,
+            "params": {
+                "activation": "relu",
+                "alpha": 1,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    50
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "5000-False-True-ingredients": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(50,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 74.52447770502026,
+            "test_acc": 71.47315855181023,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    50
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "10000-True-False-all": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=1, hidden_layer_sizes=(20,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 87.97942001870908,
+            "test_acc": 74.71910112359551,
+            "params": {
+                "activation": "relu",
+                "alpha": 1,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    20
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "10000-True-False-ingredients": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(50,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 75.64702213907078,
+            "test_acc": 70.8489388264669,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    50
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "10000-False-False-all": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=1, hidden_layer_sizes=(50,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 88.2600561272217,
+            "test_acc": 74.65667915106118,
+            "params": {
+                "activation": "relu",
+                "alpha": 1,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    50
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "10000-False-False-ingredients": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(50,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 74.71156844402869,
+            "test_acc": 70.0374531835206,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    50
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "10000-True-True-all": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(10,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 87.48051138135328,
+            "test_acc": 74.65667915106118,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    10
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "10000-True-True-ingredients": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(50,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 75.27284066105395,
+            "test_acc": 71.34831460674157,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    50
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "10000-False-True-all": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(20,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 87.9170564390396,
+            "test_acc": 74.53183520599251,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    20
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    },
+    "10000-False-True-ingredients": {
+        "mlp": {
+            "model": "MLPClassifier(alpha=0.001, hidden_layer_sizes=(20,), learning_rate='adaptive',\n              learning_rate_init=0.0001, max_iter=1000, solver='sgd')",
+            "train_acc": 74.2126598066729,
+            "test_acc": 70.72409488139824,
+            "params": {
+                "activation": "relu",
+                "alpha": 0.001,
+                "batch_size": "auto",
+                "beta_1": 0.9,
+                "beta_2": 0.999,
+                "early_stopping": false,
+                "epsilon": 1e-08,
+                "hidden_layer_sizes": [
+                    20
+                ],
+                "learning_rate": "adaptive",
+                "learning_rate_init": 0.0001,
+                "max_fun": 15000,
+                "max_iter": 1000,
+                "momentum": 0.9,
+                "n_iter_no_change": 10,
+                "nesterovs_momentum": true,
+                "power_t": 0.5,
+                "random_state": null,
+                "shuffle": true,
+                "solver": "sgd",
+                "tol": 0.0001,
+                "validation_fraction": 0.1,
+                "verbose": false,
+                "warm_start": false
+            }
+        }
+    }
+}

@@ -1,0 +1,386 @@
+{
+    "1000-True-False-all": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 67.8827564702214,
+            "test_acc": 65.29338327091136,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "1000-True-False-ingredients": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 72.38852510134082,
+            "test_acc": 70.34956304619226,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "1000-False-False-all": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 70.31493607733084,
+            "test_acc": 66.85393258426966,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "1000-False-False-ingredients": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 73.15247895229187,
+            "test_acc": 71.2234706616729,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "1000-True-True-all": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 69.39507327720611,
+            "test_acc": 66.66666666666666,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "1000-True-True-ingredients": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 72.66916120985346,
+            "test_acc": 70.72409488139824,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "1000-False-True-all": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 71.14125350795135,
+            "test_acc": 68.60174781523096,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "1000-False-True-ingredients": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 73.32397879638292,
+            "test_acc": 70.8489388264669,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "3000-True-False-all": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 75.10134081696289,
+            "test_acc": 69.78776529338327,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "3000-True-False-ingredients": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 76.23947614593078,
+            "test_acc": 72.34706616729089,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "3000-False-False-all": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 76.48893046460867,
+            "test_acc": 70.97378277153558,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "3000-False-False-ingredients": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 76.7227938883692,
+            "test_acc": 72.65917602996255,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "3000-True-True-all": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 75.60024945431869,
+            "test_acc": 71.09862671660424,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "3000-True-True-ingredients": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 75.31961334580605,
+            "test_acc": 72.03495630461923,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "3000-False-True-all": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 77.42438415965076,
+            "test_acc": 72.47191011235955,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "3000-False-True-ingredients": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 75.99002182725289,
+            "test_acc": 72.28464419475655,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "5000-True-False-all": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 77.03461178671655,
+            "test_acc": 70.4119850187266,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "5000-True-False-ingredients": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 76.30183972560025,
+            "test_acc": 72.22222222222221,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "5000-False-False-all": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 78.50015590894918,
+            "test_acc": 72.15980024968789,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "5000-False-False-ingredients": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 76.64483941378235,
+            "test_acc": 72.40948813982521,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "5000-True-True-all": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 76.84752104770813,
+            "test_acc": 71.78526841448189,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "5000-True-True-ingredients": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 75.28843155597131,
+            "test_acc": 72.22222222222221,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "5000-False-True-all": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 78.57811038353601,
+            "test_acc": 72.53433208489388,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "5000-False-True-ingredients": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 75.99002182725289,
+            "test_acc": 72.59675405742821,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "10000-True-False-all": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 78.06361085126287,
+            "test_acc": 71.09862671660424,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "10000-True-False-ingredients": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 76.30183972560025,
+            "test_acc": 72.22222222222221,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "10000-False-False-all": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 79.84097287184284,
+            "test_acc": 72.03495630461923,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "10000-False-False-ingredients": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 76.64483941378235,
+            "test_acc": 72.40948813982521,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "10000-True-True-all": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 77.22170252572498,
+            "test_acc": 71.91011235955057,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "10000-True-True-ingredients": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 75.28843155597131,
+            "test_acc": 72.22222222222221,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "10000-False-True-all": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 79.10820081072654,
+            "test_acc": 72.90886392009988,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    },
+    "10000-False-True-ingredients": {
+        "nb": {
+            "model": "MultinomialNB()",
+            "train_acc": 75.99002182725289,
+            "test_acc": 72.59675405742821,
+            "params": {
+                "alpha": 1.0,
+                "class_prior": null,
+                "fit_prior": true
+            }
+        }
+    }
+}
